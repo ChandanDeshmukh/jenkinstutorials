@@ -3,7 +3,7 @@ node {
      checkout scm 
   }
   stage ("Build") {
-    echo "Build Stage")
+    echo "Build Stage"
   }
 }
 
